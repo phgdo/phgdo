@@ -2,9 +2,7 @@
   <b>Do Nguyen Phuong</b>
 </h1>
 
-Heya! I'm Phuong, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Heya! I'm Phuong, a student currently living in Hanoi, Vietnam.
 
 <br>
 
