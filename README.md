@@ -5,7 +5,7 @@
 Heya! I'm Phuong, a student currently living in Hanoi, Vietnam.
 
 <br>
-
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/flask-v1.1.1-blue">
