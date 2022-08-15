@@ -34,6 +34,7 @@ if __name__ == '__main__':
   <a href="https://open.spotify.com/album/3sL9Myf7JF1k9TbrXE46ou">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
+  <iframe src="https://open.spotify.com/embed/track/1UgMLFmeVyphjePcN1TNpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 ## My Statistics
