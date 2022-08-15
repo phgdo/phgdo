@@ -9,7 +9,7 @@ Heya! I'm Phuong, a student currently living in Hanoi, Vietnam.
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/flask-v1.1.1-blue">
-  <img src="[https://img.shields.io/badge/flask-v1.1.1-blue](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)">
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   
 </div>
