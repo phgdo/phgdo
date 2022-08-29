@@ -13,6 +13,7 @@ Heya! I'm Phuong, a student currently living in Hanoi, Vietnam.
       alt="phgdofb" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">Languages:</h3>
 <p>
 <div align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
