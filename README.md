@@ -2,7 +2,7 @@
   <b>Do Nguyen Phuong</b>
 </h1>
 
-Heya! I'm Phuong, a student currently living in Hanoi, Vietnam.
+Heya! I'm Pentester and Security Reseacher.
 
 <br>
 
